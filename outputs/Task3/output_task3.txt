@@ -1,0 +1,11 @@
+PHASE 3 SAMPLE INPUTS:
+TASK 3:
+------------------------------------
+REUSE THE GRAPH FROM TASK 1
+
+K=7
+
+
+Output->
+List of  7  Most dominant Images in PR
+[52051466, 52052758, 6031024805, 52051413, 4815262450, 52052082, 52052805]
